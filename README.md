@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ITheDongTran - recent graduate from UC Irvine
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning git.
-- 💞️ I’m currently looking for a job. 
+- 👋 Hi, I’m @ITheDongTran - student @ UC Irvine
+- 👀 I’m interested in software engineering.
+- 🌱 I’m currently learning how to become the best I can.
+- 💞️ I’m currently in love with coding.
 - 📫 How to reach me @ thedongtran@gmail.com.
 
 <!---
