@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ITheDongTran - student @ UC Irvine
+- 👋 Hi, I’m @ITheDongTran - Upcoming SDE @ Amazon
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning how to become the best I can.
-- 💞️ I’m currently in love with coding.
 - 📫 How to reach me @ thedongtran@gmail.com.
 
 <!---
